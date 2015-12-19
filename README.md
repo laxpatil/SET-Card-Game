@@ -10,7 +10,7 @@ Each card has an image on it with 4 orthogonal attributes:
 Three cards are a part of a set if, for each property, the values are all the same or all different.
 
 
-From Wikipedia:
+#From Wikipedia:
 
 Several games can be played with these cards, all involving the concept of a set. A set consists of three cards which satisfy all of these conditions:
 
@@ -22,7 +22,7 @@ The rules of Set are summarized by: If you can sort a group of three cards into 
 
 
 The code Explanation:
-Methods:
+# Methods:
 1. Class Card     (Card)
 2. SET operations (SetMethods)
 3. Play game       (startGame)
