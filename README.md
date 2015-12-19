@@ -21,8 +21,8 @@ They all have the same color, or they have three different colors.
 The rules of Set are summarized by: If you can sort a group of three cards into "Two of ____ and one of _____," then it is not a set.
 
 
-The code Explanation:
-# Methods:
+
+# Methods used in Java Code:
 1. Class Card     (Card)
 2. SET operations (SetMethods)
 3. Play game       (startGame)
