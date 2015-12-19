@@ -2,11 +2,13 @@
 "Set" is a card game where a group of players try to identify a "set" of cards from those placed face-up on a table.
 
 
-Each card has an image on it with 4 orthogonal attributes:
+Each card has an image on it with 4 orthogonal attributes.
+
 1. Color (red, green, or purple)
 2. Shape (diamond, squiggle, or oval)
 3. Shading (solid, empty, or striped)
 4. Number (one, two, or three)
+ 
 Three cards are a part of a set if, for each property, the values are all the same or all different.
 
 
@@ -19,9 +21,7 @@ Several games can be played with these cards, all involving the concept of a set
 3. They all have the same shading, or they have three different shadings.
 4. They all have the same color, or they have three different colors.
 
- The rules of Set are summarized by: If you can sort a group of three cards into "Two of ____ and one of _____," then it is not a set.
-
-
+ The rules of Set are summarized by - If you can sort a group of three cards into "Two of ... and one of ..." then it is not a set.
 
 # Methods used in Java Code:
 1. Class Card     (Card)
